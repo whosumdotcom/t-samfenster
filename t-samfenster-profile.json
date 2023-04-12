@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-12T04:34:25Z",
+  "IdClaims": [
+    {
+      "Claim": "t:samfenster"
+    },
+    {
+      "Claim": "gh:samfenster"
+    },
+    {
+      "Claim": "mdon:@samfenster@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "61a7e2f7792c33fcd5ab54a2",
+    "Timestamp": "2023-04-12T04:49:44Z",
+    "Signature": "1a902bf991b27c393dc46b833cc59de96c4251764d1ae12e6d5952d5a22281ebb8875bcc89cd7b499f61705194aa74cdfc6e501649e57804ec021a70c7d26554735ec539baea2ec4dea0687e5206778e74b9c42d8a01774d0f5b63d50427a11dd7ef2bf19035d77643385a465493efaddd4cd593fc5ce6e20331ccd05a1278beb4cff99029493e7c178eab5548e5fb35aad7683d47abcdf1d00c1bb1dee682134a3fb9366b1ffb8805edb412dd601bf08bfb06ff933e1caed0d3a8c693429791708acce83a015961b8f4c56d86a28677c15df25fc8b1479b4327901f955eac6238a83ab4ec483b704fce9210dd36fa3bcf210062e5ea1177e1760670d336d8f4"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "35cfebf52f7a47fa4894128cbcc93086eec44a5f8ceba070a73a7dc38c76d8c4",
+  "ContentToHash": "v1|gh:samfenster,mdon:@samfenster@mastodon.social,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:samfenster|2023-04-12T04:34:25Z"
+}
